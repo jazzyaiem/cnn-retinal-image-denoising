@@ -13,4 +13,4 @@ The results demonstrate that CNNs preserve structural details more effectively t
 - Evaluation: PSNR, SSIM, visual comparison
 
 ## Results
-![Comparison](figures/comparison.png)
+![Denoising Comparison](figures/comparison.png)
